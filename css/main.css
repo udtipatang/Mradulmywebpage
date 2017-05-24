@@ -1,0 +1,33 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+
+  h1{
+    font-family: lobster,monospace;
+  }
+  .boy{
+    width: 500px;
+    border-color: #00ff65;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 50%;
+  }
+  .abc{
+    font-style: oblique;
+    font-size: 25px
+  }
+  .foot{font-style: italic;font-size: 20px;
+  font-weight: bold; color:grey;}
+  .cent{
+    margin: 70px 70px 70px 70px;
+  }
+  .green-background {
+  background-color: green;
+}
+  .orange-background {
+  background-color: orange;
+    border-radius: 50%;
+    padding: 10px 20px 10px 20px;
+    margin: 100px 20px 10px 20px;
+    text-align: center
+}
+  .text-centre{text-align: center;}
